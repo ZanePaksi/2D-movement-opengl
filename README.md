@@ -3,7 +3,7 @@
 Using OpenGL and GLUT. Thos will need to be installed prior.
 Makefile to come soon, but until then compile with the following line
 
-# g++ movement_test.cpp -o test -lglut -lGLU -lGL
+## g++ movement_test.cpp -o test -lglut -lGLU -lGL
 
 
 # Controls
