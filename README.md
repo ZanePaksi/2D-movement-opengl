@@ -1,9 +1,9 @@
 # 2D-movement-opengl
 
-Using OpenGL and GLUT. Thos will need to be installed prior.
+Using OpenGL and GLUT. Those will need to be installed prior to compiling.
 Makefile to come soon, but until then compile with the following line
 
-# g++ movement_test.cpp -o test -lglut -lGLU -lGL
+g++ movement_test.cpp -o test -lglut -lGLU -lGL
 
 
 # Controls
